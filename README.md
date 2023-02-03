@@ -1,4 +1,4 @@
-# hello-world -> Small changes for testing by MJ
+# hello-world ->Second change s for testing by MJ [command pull]
 Hello World repository for Git tutorial
 This is an example repository for the Git tutoial on https://www.w3schools.com
 
